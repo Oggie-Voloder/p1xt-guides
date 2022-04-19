@@ -67,10 +67,10 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |    Skipped    |          |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       |    Skipped    |          |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |    Skipped    |          |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)   |    Skipped    |          |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |    Skipped    |   N/A    |
+| [Algebra II](https://www.khanacademy.org/math/algebra2)       |    Skipped    |   N/A    |
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |    Skipped    |   N/A    |
+| [Precalculus](https://www.khanacademy.org/math/precalculus)   |    Skipped    |   N/A    |
 
 ### Tier X - Programming Prep Prep
 
@@ -78,11 +78,11 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |  Skipped          |              |
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |         Skipped   |              |
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |         In Progress   |              |
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |         Skipped   |              |
-| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |          Skipped  |              |
+| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |  Skipped          |     N/A      |
+| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |         Skipped   |     N/A      |
+| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |         Completed     |              |
+| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |         Skipped   |     N/A      |
+| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |          Skipped  |     N/A      |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |         Skipped   |              |
 
